@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget 
+	id="de.mgu.rfduino.lego" 
+	version="1.0.0" 
+	xmlns="http://www.w3.org/ns/widgets" 
+	xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    
+	<name>RFduino LEGO PowerFunctions</name>
+	<description>
+        Controlling LEGO Technic PowerFunctions using your Bluetooth-enabled Smartphone and RFduino.
+    </description>
+	<author email="markus.guenther@gmail.com" href="http://www.habitat47.de">Markus Günther</author>
+	<content src="index.html" />
+	<access origin="*" />
+	<preference name="Fullscreen" value="true" />
+	<preference name="Orientation" value="portrait" />
+	<icon src="res/icons/"/>
+</widget>
